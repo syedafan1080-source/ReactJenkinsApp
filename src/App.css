@@ -1,0 +1,16 @@
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: green;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
